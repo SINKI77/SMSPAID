@@ -1,6 +1,6 @@
 {
     "app_status": {
-        "maintenance": true,
+        "maintenance": false,
         "message": "Stop Sinki Cheat",
         "telegram": "https://t.me/Group_Sinki"
     }
