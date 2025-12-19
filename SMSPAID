@@ -1,6 +1,6 @@
 {
     "app_status": {
-        "maintenance": true,
+        "maintenance": false,
         "message": "Sinki Cheat Paid has been disabled",
         "telegram": "https://t.me/Group_Sinki"
     }
