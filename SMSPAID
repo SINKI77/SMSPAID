@@ -1,6 +1,6 @@
 {
     "app_status": {
-        "maintenance":true,
+        "maintenance":false,
         "message": "Sinki Cheat Free has been disabled",
         "telegram": "https://t.me/Sinki_Pubg_Mobile"
     }
